@@ -4,8 +4,7 @@
 
 ## Overview
 
-The AI Summarizer Website is a web application that allows users to summarize articles from URLs using an AI-powered summarization service through RapidAPI. This README provides information on how to set up, configure, and use this website.
-
+The AI Summarizer Website is a web application that allows users to summarize articles from URLs using an AI-powered summarization service through RapidAPI.
 ## Features
 
 - Summarize articles from URLs quickly and efficiently.
