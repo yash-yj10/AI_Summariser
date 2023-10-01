@@ -1,6 +1,6 @@
 # AI Summarizer Website
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](AI_Summariser_Screenshot.png)
 
 ## Overview
 
